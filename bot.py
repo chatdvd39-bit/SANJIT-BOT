@@ -273,7 +273,7 @@ def start_buttons():
         ],
     
 
-def buy_buttons():
+
     return InlineKeyboardMarkup([
         [InlineKeyboardButton(PACKAGES["CHILD"]["button"], callback_data="package|CHILD")],
         [InlineKeyboardButton(PACKAGES["mms"]["button"], callback_data="package|mms")],
