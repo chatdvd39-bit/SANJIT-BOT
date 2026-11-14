@@ -270,9 +270,6 @@ def start_buttons():
                 "✨ 𝐂𝐇𝐈𝐋𝐃 𝐏@𝐑𝐍 𝐃𝐄𝐌𝐎",
                 callback_data="demo|CHILD"
             )
-        ],
-    
-
 
     return InlineKeyboardMarkup([
         [InlineKeyboardButton(PACKAGES["CHILD"]["button"], callback_data="package|CHILD")],
