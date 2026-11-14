@@ -264,7 +264,7 @@ def start_buttons():
                 "😍𝐒𝐈𝐒𝐓𝐄𝐑 𝐃𝐄𝐌𝐎",
                 callback_data="demo|sister"
             )
-        ],
+        ]
         [
             InlineKeyboardButton(
                 "✨ 𝐂𝐇𝐈𝐋𝐃 𝐏@𝐑𝐍 𝐃𝐄𝐌𝐎",
