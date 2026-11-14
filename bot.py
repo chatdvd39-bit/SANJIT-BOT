@@ -271,7 +271,7 @@ def start_buttons():
                 callback_data="demo|CHILD"
             )
         ],
-    ])
+    
 
 
 def buy_buttons():
