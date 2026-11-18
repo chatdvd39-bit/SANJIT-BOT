@@ -331,7 +331,7 @@ def init_db():
             "upi_id": "Q026188928@ybl",
             "support_id": "",
             "howtobuy_msg": "📖 How to Buy\n\n1. Pick a plan\n2. Pay via UPI\n3. Send screenshot + UTR\n4. Instant access",
-            "proof_channel": "",
+            "proof_channel": "https://t.me/MMSBHAIXPRFm",
             "premium_channel": "",
             "plan_photo": "",
             "protect_content": "1",
