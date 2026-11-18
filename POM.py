@@ -22,8 +22,8 @@ from telegram.ext import (
     filters,
 )
 
-BOT_TOKEN = "8907290670:AAEy0TOi94wD16tZmEIk7XiEM8WB5AuOhus"
-ADMIN_ID = 6516697207
+BOT_TOKEN = "9260427892:AAG1y52MdyFWfMbRTwWGecwtZ6DW2dVVX_s"
+ADMIN_ID = 8853901359
 ADMIN_IDS = {ADMIN_ID}
 try:
     ADMIN_IDS.update(int(x.strip()) for x in os.getenv("ADMIN_IDS", "").split(",") if x.strip())
