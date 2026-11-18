@@ -328,7 +328,7 @@ def init_db():
             "welcome_image": "",
             "welcome_videos": "[\"BAACAgUAAxkBAAMWatxbyRKTDYhd0aBu4BT04LTg0RkAAhMgAAL1BUBWeJTdds-cryM9BA\", \"BAACAgUAAxkBAAMXatxbyTKEBG1xeBaBEw5wuu6ALW8AAhQgAAL1BUBW-ZBK2G_mOmY9BA\", \"BAACAgUAAxkBAAMYatxbyUhJT6I71OgSpbzdd2WGUc8AAhUgAAL1BUBWbDGKrUBPnNk9BA\", \"BAACAgUAAxkBAAMZatxbyf0urbnUwLK4ukXp2Ae6lJ0AAhYgAAL1BUBWBRKj6cU_diY9BA\"]",
             "extra_admins": "",
-            "upi_id": "paytm.s2zpx1w@pty",
+            "upi_id": "Q026188928@ybl",
             "support_id": "",
             "howtobuy_msg": "📖 How to Buy\n\n1. Pick a plan\n2. Pay via UPI\n3. Send screenshot + UTR\n4. Instant access",
             "proof_channel": "",
