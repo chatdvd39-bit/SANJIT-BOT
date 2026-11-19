@@ -22,7 +22,7 @@ from telegram.ext import (
     filters,
 )
 
-BOT_TOKEN = "9260427892:AAG1y52MdyFWfMbRTwWGecwtZ6DW2dVVX_s"
+BOT_TOKEN = "9008072542:AAGEjMTFni_Z2OPfKOhRzarQfa2oHCXuJp4"
 ADMIN_ID = 8853901359
 ADMIN_IDS = {ADMIN_ID}
 try:
